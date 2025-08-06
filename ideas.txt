@@ -1,0 +1,3 @@
+crear un videojuego de zombies en una escuela
+desarrollar una app para organizar tareas escolares   
+hacer una página web personal con mi biografía y proyectos

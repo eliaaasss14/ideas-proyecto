@@ -1,0 +1,2 @@
+diseñar un bot de preguntas y respuestas en Python
+hacer un simulador de compra para una ferretería con base de datos
